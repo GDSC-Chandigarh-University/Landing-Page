@@ -1,0 +1,55 @@
+body {
+    background-color: #ededed;
+}
+
+#join-box {
+    margin-top: 20px;
+    padding: 150px;
+    background-color: #fefefe;
+    border-radius: 10px;
+}
+
+#cu {
+    font-weight: 400;
+    opacity: 70%;
+}
+
+#join-us {
+    color: #fefefe;
+    border-radius: 5px;
+    background-color: #3587ff;
+    border: none;
+    width: 100px;
+    padding: 10px;
+}
+
+#about-box {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fefefe;
+    border-radius: 10px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+#vision-box {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fefefe;
+    border-radius: 10px;
+}
+
+.vision-tile {
+    height: 200px;
+    width: 350px;
+    background-color: #ededed;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+p {
+        font-size: small;
+}

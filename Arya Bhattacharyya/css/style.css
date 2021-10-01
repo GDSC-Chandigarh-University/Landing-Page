@@ -19,7 +19,7 @@ body {
 }
 
 .event-tile > div > h5 {
-    color: #dc3734;
+    color: #bf1916;
     font-weight: bold;
 }
 
@@ -41,7 +41,7 @@ div > span {
 .long-tile > div {
     color: #fefefe;
     padding: 10px;
-    background-color: #dc3734;
+    background-color: #bf1916;
     border-radius: 10px;
 }
 
