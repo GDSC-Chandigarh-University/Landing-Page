@@ -1,0 +1,15 @@
+.back-card {
+  position: relative;
+  top: 10px;
+  right: 10px;
+}
+
+.front-card {
+  top: -360px;
+  position: relative;
+  /*transform: translateY(-360px);*/
+}
+
+.card-class {
+  height: 400px;
+}
