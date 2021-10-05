@@ -1,0 +1,16 @@
+.nav-buttons{
+    display: flex;
+    justify-content:flex-start;
+    gap: 3rem;
+    margin-top: 5rem;
+    background-color:#fff;
+    font-weight: normal;
+    border-bottom: solid 3px #dde0d9;
+    content: '';
+border-bottom: solid 1px #bcc3c4;  
+transform: scaleX(1);  
+transition: transform 250ms ease-in-out;
+}
+.nav-buttons:hover{
+    color: none;
+}
